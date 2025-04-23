@@ -20,3 +20,9 @@ This is a simple Java-based Bank Management System designed to demonstrate basic
 1. Clone the repository:
    ```bash
    git clone https://github.com/marzieh-dezfoli/BankManagementSystem-java.git
+## 🎥 Demo Video
+
+Watch the demo video on Telegram:
+
+👉 [Click to watch the video https://t.me/MsdezfoliBestPortfolio
+
